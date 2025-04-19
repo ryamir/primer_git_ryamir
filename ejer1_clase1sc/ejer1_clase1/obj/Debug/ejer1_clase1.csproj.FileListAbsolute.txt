@@ -1,0 +1,7 @@
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\bin\Debug\ejer1_clase1.exe.config
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\bin\Debug\ejer1_clase1.exe
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\bin\Debug\ejer1_clase1.pdb
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\obj\Debug\ejer1_clase1.csproj.AssemblyReference.cache
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\obj\Debug\ejer1_clase1.csproj.CoreCompileInputs.cache
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\obj\Debug\ejer1_clase1.exe
+C:\particando_ando\c#console\ejer1_clase1sc\ejer1_clase1\obj\Debug\ejer1_clase1.pdb
